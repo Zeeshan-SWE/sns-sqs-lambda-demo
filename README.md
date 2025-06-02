@@ -1,6 +1,11 @@
 # sns-sqs-lambda-demo
 A demo using AWS SNS, SQS, and Lambda with Terraform
 
+## 👨‍💻 Developed By
+
+**Zeeshan Shah Syed**  
+DevOps & Cloud Engineer | 9+ years experience in building scalable, secure, and highly available infrastructure.
+
 # SNS → SQS → Lambda Integration Demo
 
 This project demonstrates a simple AWS event-driven architecture using **Amazon SNS**, **Amazon SQS**, and **AWS Lambda**, with optional **Terraform** infrastructure as code for setup.
@@ -89,5 +94,8 @@ Make sure the Lambda role has permissions to read from SQS and write logs to Clo
 MIT License – use freely, modify responsibly.
 
 🙌 Author
-Created by Zeeshan Shah Syed LinkedIn: https://www.linkedin.com/in/syed-s-2a3638264/ | Zeeshanshahsyed14@gmail.com
+Created by Zeeshan Shah Syed 
 For demo/testing/development purposes only.
+
+📬 Contact
+Feel free to connect with me on LinkedIn: https://www.linkedin.com/in/syed-s-2a3638264/ or reach out at zeeshanshahsyed14@gmail.com for collaboration or questions!
